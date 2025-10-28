@@ -1,7 +1,7 @@
 <!-- Profile README for Karthikeyan K -->
 
 <p align="center">
-  <img src="./1.jpg" alt="Karthikeyan K" width="180" height="180" style="border-radius: 50%; border: 2px solid #2e2e2e;" />
+  <img src="./2.jpg" alt="Karthikeyan K" width="180" height="180" style="border-radius: 50%; border: 2px solid #2e2e2e;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Karthikeyan K</h1>
